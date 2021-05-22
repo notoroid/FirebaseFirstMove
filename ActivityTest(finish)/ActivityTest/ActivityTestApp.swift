@@ -12,9 +12,17 @@ struct ActivityTestApp: App {
     @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
     var body: some Scene {
         WindowGroup {
-//            ActivityView()
+// original view
+//            ContentView()
+            
+// for Crashlytics activate
+//            CrashView()
+  
+// for Signin with Apple test
 //            SigninView()
-            ContentView()
+            
+// Firestore test
+//            ActivityView()
         }
     }
 }

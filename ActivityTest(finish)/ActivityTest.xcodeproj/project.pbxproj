@@ -15,6 +15,7 @@
 		17367F9D2658E3B0004BADC0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17367F9C2658E3B0004BADC0 /* AppDelegate.swift */; };
 		17367F9F2658E5CA004BADC0 /* SigninView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17367F9E2658E5CA004BADC0 /* SigninView.swift */; };
 		17367FA12658E962004BADC0 /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17367FA02658E962004BADC0 /* ActivityView.swift */; };
+		17FC8A1826591B1B00DF64BF /* CrashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17FC8A1726591B1B00DF64BF /* CrashView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		17367F9C2658E3B0004BADC0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		17367F9E2658E5CA004BADC0 /* SigninView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SigninView.swift; sourceTree = "<group>"; };
 		17367FA02658E962004BADC0 /* ActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
+		17FC8A1726591B1B00DF64BF /* CrashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrashView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				17111C792658DBEA00D43D6C /* ActivityTestApp.swift */,
 				17367F9C2658E3B0004BADC0 /* AppDelegate.swift */,
 				17111C7B2658DBEA00D43D6C /* ContentView.swift */,
+				17FC8A1726591B1B00DF64BF /* CrashView.swift */,
 				17367F9E2658E5CA004BADC0 /* SigninView.swift */,
 				17367FA02658E962004BADC0 /* ActivityView.swift */,
 				17111C7D2658DBEA00D43D6C /* Assets.xcassets */,
@@ -185,6 +188,7 @@
 			files = (
 				17367F9D2658E3B0004BADC0 /* AppDelegate.swift in Sources */,
 				17111C7C2658DBEA00D43D6C /* ContentView.swift in Sources */,
+				17FC8A1826591B1B00DF64BF /* CrashView.swift in Sources */,
 				17367F9F2658E5CA004BADC0 /* SigninView.swift in Sources */,
 				17367FA12658E962004BADC0 /* ActivityView.swift in Sources */,
 				17111C7A2658DBEA00D43D6C /* ActivityTestApp.swift in Sources */,
