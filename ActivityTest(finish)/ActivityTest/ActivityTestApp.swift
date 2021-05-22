@@ -13,15 +13,15 @@ struct ActivityTestApp: App {
     var body: some Scene {
         WindowGroup {
 // original view
-//            ContentView()
+            ContentView()
             
-// for Crashlytics activate
+// step1) for Crashlytics activate
 //            CrashView()
   
-// for Signin with Apple test
+// step2) for Signin with Apple test
 //            SigninView()
             
-// Firestore test
+// step3) Firestore test
 //            ActivityView()
         }
     }
